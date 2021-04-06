@@ -1,0 +1,225 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+       /*banner*/
+    .b_h1{
+	margin-top: 100px;
+   font-size: 30px;
+   font-weight: 400;
+   }
+   .bb-h1{
+	margin-left: 50px;
+   }
+   .b_button{
+	margin-top: 30px;
+	margin-bottom: 5px;
+	margin-left: 80px;
+	height: 40px;
+	width: 200px;
+	font-size: 16px;
+}
+.b_p{
+	margin-left: 20px;
+	font-size: 14px;
+  }
+
+    /*banner*/
+    /*fantastic start*/
+    .f_h2{
+	margin-bottom: 20px;
+	font-size: 18px;
+  }
+
+     .f_p{
+	margin-bottom: 25px;
+	font-size: 15px;
+	letter-spacing: 0px;
+}  
+    /*bang start*/
+     .bang{
+	padding-top: 150px;
+    }
+    .b-h2{
+	font-size: 22px
+}
+     .f_p2{
+	font-size: 14px;
+	letter-spacing: 0px;
+
+    }
+    .bg-button{
+	margin-top: 20px; 
+	height: 40px;
+	width: 180px;
+
+    }
+    /*bang end*/
+     /*a heading start*/
+    .h-img{
+    	text-align: center;
+   }
+   .h-h3{
+	margin-top: 50px;
+	margin-left: 0;
+	margin-right: 0;
+    }
+    .hp-1{
+    text-align: center;
+	margin-left: 0;
+	margin-right: 0;
+   }
+   .hp-2{
+    text-align: center;
+	margin-left: 0;
+	margin-right: 0;
+	font-size: 16px;
+   }
+    /*a heading end*/
+    /*experience start*/
+    .experience{
+	padding-top: 150px;
+	min-height: 500px;
+    }
+    .ex-h1{
+	font-size: 30px;
+    }
+    .ex-p{
+	margin-top: 20px;
+	font-size: 18px;
+   }
+   .ex-btn{
+	margin-top: 10px;
+	margin-bottom: 8px;
+	margin-left: 0;
+   }
+    /*experience end*/
+     /*photography start*/
+
+.photography{
+	padding-top: 150px;
+    }
+     .ph-h2{
+	font-size: 35px;
+    }
+     .ph-p{
+	margin-top: 20px;
+	margin-left: 22px!important;
+   }
+    /*photography end*/
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+      
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*navber start*/
+    .menu ul li a{
+	font-size:16px;
+	font-weight:400;
+	color: white!important;
+	padding:0 5px !important;
+   }
+    /*navber end*/
+    /*banner*/
+    .b_h1{
+	margin-top: 100px;
+   font-size: 30px;
+   font-weight: 400;
+   }
+   .bb-h1{
+	margin-left: 50px;
+   }
+   .b_button{
+	margin-top: 30px;
+	margin-bottom: 5px;
+	margin-left: 80px;
+	height: 40px;
+	width: 200px;
+	font-size: 16px;
+}
+.b_p{
+	margin-left: 20px;
+	font-size: 14px;
+  }
+
+    /*banner*/
+    /*fantastic start*/
+     .f_p{
+	margin-bottom: 30px;
+	font-size: 16px;
+	letter-spacing: 0px;
+   }
+
+    /*fantastic end*/
+    /*bang start*/
+    .bang{
+	padding-top: 150px;
+    }
+    .b-h2{
+
+	font-size: 25px
+   }
+     .f_p2{
+	font-size: 14px;
+	letter-spacing: 0px;
+
+    }
+    .bg-button{
+	margin-top: 30px;
+	height: 40px;
+	width: 180px;
+
+    }
+    /*bang end*/
+    /*a heading start*/
+    .h-img{
+    	text-align: center;
+   }
+   .h-h3{
+	margin-top: 50px;
+    }
+    /*a heading end*/
+    /*experience start*/
+    .experience{
+	padding-top: 150px;
+	min-height: 500px;
+    }
+    .ex-h1{
+	font-size: 30px;
+    }
+    .ex-p{
+	margin-top: 20px;
+	font-size: 18px;
+   }
+   .ex-btn{
+	margin-top: 10px;
+	margin-bottom: 8px;
+	margin-left: 0;
+   }
+    /*experience end*/
+    /*photography start*/
+     .ph-p{
+	margin-top: 20px;
+	margin-left: 15px!important;
+   }
+    /*photography end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px){
+	
+}
